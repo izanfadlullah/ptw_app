@@ -2,7 +2,6 @@ streamlit
 scikit-learn
 numpy
 pandas
-sqlite3
 datetime
 io
 os
